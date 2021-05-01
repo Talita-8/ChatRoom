@@ -9,7 +9,7 @@
     <meta name="author" content="">
 
     <title>Hello Chat!</title>
-    <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.scss") %>">
+    <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>">
   </head>
 
   <body>
